@@ -37,14 +37,10 @@ This project is built using the C++ programming language, providing a command-li
    cd numerical_methods
    
    
-2. Compile the code:
-   bash
-   g++ main.cpp -o numerical_methods
-   
 
-3. Run the application:
+2. Run the application:
    bash
-   ./numerical_methods
+   python -u main.py
    
 
 ## Usage
